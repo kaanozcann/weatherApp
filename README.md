@@ -5,7 +5,7 @@ Bu proje, gerçek zamanlı hava durumu bilgilerini çekip kullanıcılara sunan 
 # Özellikler
 
 Kullanıcılar, uygulama üzerinden istedikleri şehirleri arayarak hava durumu bilgisini alabilirler.
-Gerçek zamanlı hava durumu verileri, WeatherAPI servisi üzerinden alınır ve kullanıcının seçtiği şehrin güncel sıcaklık, nem oranı, rüzgar hızı gibi verilerini sunar.
+Gerçek zamanlı hava durumu verileri, WeatherAPI servisi üzerinden alınır ve kullanıcının seçtiği şehrin güncel sıcaklık verilerini sunar.
 Kullanıcı dostu arayüz sayesinde, hava durumu bilgileri kolayca okunabilir ve anlaşılabilir.
 Basit ve minimalist tasarımı ile kullanıcılara kolaylık sağlar.
 
